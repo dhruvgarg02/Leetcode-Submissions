@@ -110,5 +110,3 @@ My accepted leetcode solutions
 |1557|[Minimum Number Of Vertices To Reach All Nodes](https://leetcode.com/problems/minimum-number-of-vertices-to-reach-all-nodes)|300 ms|106.7 MB|16-05-2021|[cpp](code/1557.minimum-number-of-vertices-to-reach-all-nodes.cpp)|
 |1631|[Path With Minimum Effort](https://leetcode.com/problems/path-with-minimum-effort)|300 ms|106.7 MB|16-05-2021|[cpp](code/1631.path-with-minimum-effort.cpp)|
 |1791|[Find Center Of Star Graph](https://leetcode.com/problems/find-center-of-star-graph)|280 ms|26.4 MB|14-05-2021|[cpp](code/1791.find-center-of-star-graph.cpp)|
-
-This repository was generated using [leetcode-cli](https://github.com/SocioDroid/leetcode-py-cli)
